@@ -1,0 +1,17 @@
+{
+  "name": "segmentio-on-enter",
+  "description": "Attach an enter key handler.",
+  "version": "0.0.1",
+  "keywords": [
+    "enter",
+    "key",
+    "bind",
+    "unbind",
+    "handler"
+  ],
+  "dependencies": {
+    "component-event": "git://github.com/npmcomponent/component-event.git",
+    "component-indexof": "git://github.com/npmcomponent/component-indexof.git"
+  },
+  "license": "MIT"
+}
